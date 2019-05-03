@@ -1,0 +1,38 @@
+{
+  "Raptar": {
+    "name": "Space Grunt",
+    "image": "https://cosmic-s3.imgix.net/9dee2be0-afa0-11e8-a5f1-639564a706db-spaceSlime.gif",
+    "max_health": "50",
+    "health": 50,
+    "damage": 15,
+    "statusEffects": "",
+    "experience": 50
+  },
+  "Tortle": {
+    "name": "Space Pirate",
+    "image": "https://cosmic-s3.imgix.net/9ded6890-afa0-11e8-b42b-d394ef03d4da-spaceSlime2.gif",
+    "max_health": "100",
+    "health": 100,
+    "damage": 25,
+    "statusEffects": "",
+    "experience": 100
+  },
+  "Venus": {
+    "name": "Space Pirate Captain",
+    "max_health": "120",
+    "image": "https://cosmic-s3.imgix.net/9df18740-afa0-11e8-8457-6f6824227ac5-spaceSlime3.gif",
+    "health": 120,
+    "damage": 35,
+    "statusEffects": "",
+    "experience": 100
+  },
+  "FINAL BOSS: Reaper": {
+    "name": "The Ascended One",
+    "image": "https://cosmic-s3.imgix.net/9dea3440-afa0-11e8-b42b-d394ef03d4da-spacePirateKing.gif",
+    "max_health": "100",
+    "health": 100,
+    "damage": 35,
+    "statusEffects": "",
+    "experience": 200
+  }
+}
