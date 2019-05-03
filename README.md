@@ -17,7 +17,7 @@ https://cosmicjs.com/articles/how-to-create-an-rpg-adventure-game-using-vuejs-an
 
 ``` bash
 git clone https://github.com/renzoxpixely/komarca-game.git
-cd vue-rpg-game
+cd komarca-game
 
 # install dependencies
 npm install
