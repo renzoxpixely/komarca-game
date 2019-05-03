@@ -2,7 +2,7 @@
 
 > A Vue.js project powered by Cosmic JS
 
-### [Play Game](https://cosmicjs.com/apps/vue-rpg-game/demo)
+###Probarlo en localhost
 
 ## Enter The Cosmos
 
@@ -16,7 +16,7 @@ https://cosmicjs.com/articles/how-to-create-an-rpg-adventure-game-using-vuejs-an
 ## Getting Started
 
 ``` bash
-git clone https://github.com/cosmicjs/vue-rpg-game
+git clone https://github.com/renzoxpixely/komarca-game.git
 cd vue-rpg-game
 
 # install dependencies
